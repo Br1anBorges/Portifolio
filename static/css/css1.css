@@ -32,3 +32,20 @@ body,section{
     height: 733px;
     position: relative;
 }
+
+.img1{
+    height: 57px;
+    width: 57px;
+    position: relative;
+}
+.div_img1{
+    position: relative;
+    text-align: end;
+
+}
+.img2{
+    height: 57px;
+    width: 57px; 
+    transform: rotate(90deg);
+    text-align: left;
+}

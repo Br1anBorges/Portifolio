@@ -4,4 +4,4 @@ from app import app, render_template
 
 @app.route('/')
 def inicial():
-    return render_template('index.html')
+    return render_template("index.html")
